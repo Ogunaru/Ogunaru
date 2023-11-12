@@ -16,3 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
+          plugin_anilist: yes
+          plugin_anilist_user: 5ignal
+          plugin_anilist_sections: characters
+          plugin_anilist_limit_characters: 22
