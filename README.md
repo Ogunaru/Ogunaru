@@ -7,3 +7,4 @@ Hello, I'm Ogeuneol.
 ![Metrics](/github-metrics.svg)
 
 [![Discord](https://discord-profile.fern.moe/discord/180889709029883905)](https://discordapp.com/users/180889709029883905)
+![Spotify](https://discord-profile.fern.moe/spotify/180889709029883905)
